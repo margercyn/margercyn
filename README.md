@@ -18,6 +18,21 @@
   
   <img src="picture/html.png" height="40" alt="html logo"  />
   <img width="12" />
+
+  <img src="picture/css.png" height="40" alt="css logo"  />
+  <img width="12" />
+
+  <img src="picture/java.png" height="40" alt="java logo"  />
+  <img width="12" />
+
+  <img src="picture/kotlin.png" height="40" alt="kotlin logo"  />
+  <img width="12" />
+
+  <img src="picture/Androud.png" height="40" alt="Androud logo"  />
+  <img width="12" />
+
+  <img src="picture/visual.png" height="40" alt="visual logo"  />
+  <img width="12" />
 </div>
 
 follow me
