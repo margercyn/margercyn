@@ -16,6 +16,8 @@
   <img src="picture/javasript.png" height="40" alt="javascript logo"  />
   <img width="12" />
   
+  <img src="picture/html.png" height="40" alt="html logo"  />
+  <img width="12" />
 </div>
 
 follow me
