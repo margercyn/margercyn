@@ -10,7 +10,13 @@
   So far I am developing only my own small projects, so I want to gain 
   experience in large companies to improve my skills and programming.</p>
 
-languages and tool
+## Languages and tool
+
+<div align="left">
+  <img src="picture/javasript.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  
+</div>
 
 follow me
 
