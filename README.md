@@ -38,10 +38,10 @@
 ## Designer tools
 
 <div align="left">
-  <img src="picture/photoshop.png" height="40" alt="javascript logo"  />
+  <img src="picture/photoshop.png" height="40" alt="photoshop logo"  />
   <img width="12" />
 
-<img src="picture/figma.png" height="40" alt="javascript logo"  />
+<img src="picture/figma.png" height="40" alt="figma logo"  />
   <img width="12" />
 
 </div>
