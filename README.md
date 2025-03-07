@@ -35,5 +35,13 @@
   <img width="12" />
 </div>
 
-follow me
+## Designer tools
 
+<div align="left">
+  <img src="picture/photoshop.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+
+<img src="picture/figma.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+
+</div>
